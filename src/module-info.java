@@ -1,2 +1,0 @@
-module Hola_Mundo {
-}
